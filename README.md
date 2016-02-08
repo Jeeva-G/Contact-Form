@@ -1,2 +1,2 @@
 # Contact-Form
-This is a contact form booking training with payment options
+This is a contact form for booking training with payment options
